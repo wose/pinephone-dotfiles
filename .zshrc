@@ -3,7 +3,7 @@ export ZSH=/usr/share/oh-my-zsh
 ZSH_THEME="robbyrussell"
 
 plugins=(
-  fd git
+  fd git sudo
 )
 
 source $ZSH/oh-my-zsh.sh
